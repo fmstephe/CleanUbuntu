@@ -7,8 +7,6 @@ apt-get --assume-yes remove thunderbird
 apt-get --assume-yes remove rhythmbox
 
 apt-get --assume-yes install vim
-apt-get --assume-yes install dmenu
-apt-get --assume-yes install xmonad
 
 apt-get autoclean
 apt-get autoremove
